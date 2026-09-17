@@ -84,6 +84,5 @@ Actively seeking backend engineering and AI/ML internship opportunities.
 
 ### Connect
 
-- LinkedIn: *add your LinkedIn URL here*
-- Email: *add your email here*
-- Portfolio: *add your portfolio site if you have one*
+- LinkedIn: *https://www.linkedin.com/in/navtej-sutar-b4b9a8391*
+- Email: *navtejsutar@gmail.com*
