@@ -76,13 +76,14 @@ Actively seeking backend engineering and AI/ML internship opportunities.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavtejSutar&show_icons=true&theme=default&hide_border=true" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavtejSutar&layout=compact&hide_border=true" width="340" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NavtejSutar&show_icons=true&theme=default&hide_border=true" width="420" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NavtejSutar&layout=compact&hide_border=true" width="340" />
 </p>
 
 ---
 
 ### Connect
 
-- LinkedIn: *https://www.linkedin.com/in/navtej-sutar-b4b9a8391*
-- Email: *navtejsutar@gmail.com*
+- LinkedIn: *add your LinkedIn URL here*
+- Email: *add your email here*
+- Portfolio: *add your portfolio site if you have one*
